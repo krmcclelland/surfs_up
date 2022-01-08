@@ -13,7 +13,7 @@ A potential investor having a negative previous investment experience due to wea
 ## Results:
 ### June Statistics for the Temperature and Precipitation
 
-![Pic_1]https://github.com/krmcclelland/surfs_up/blob/main/June_Temp_Stats.png
+![Pic_1](https://github.com/krmcclelland/surfs_up/blob/main/June_Temp_Stats.png)
       
 ### December Statistics for the Temperature and Precipitation
 
