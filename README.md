@@ -19,17 +19,15 @@ A potential investor having a negative previous investment experience due to wea
 
 ![Pic_2](https://github.com/krmcclelland/surfs_up/blob/main/December_Temp_Stats.png)
 
-1. The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December.  However, the opposite is true for precipitation.  December had the higher precipitation of .22 inches while June had .14 inches. 
+1. The mean June temperature of 75°F is higher than the mean December temperature of 71°F.  However, the opposite is true for precipitation, whereas December precipitation of .22 inches while June had .14 inches. 
 
 ![Pic 3](https://github.com/krmcclelland/surfs_up/blob/main/June_Temp_Observations.PNG)
 ![Pic 4](https://github.com/krmcclelland/surfs_up/blob/main/December_Temp_Observations.PNG)
 
-2. Grouping the data into 15 bins, the histograms visually show how the frequency centers around the two different means.  For consistency of the graphs, the ranges of the axes were generated as the same for easier comparison using the minimum and maximum numbers from the descriptive statistics.  Using the same range for the temperatures, June appears to have a slight left skew, where December is more symmetrical.    
+2. Grouping the data, the histograms shows the frequency centers around the two different means.  For consistency of the graphs, the ranges of the axes were generated as the same for easier comparison using the minimum and maximum numbers from the descriptive statistics.  Using the same range for the temperatures, June appears to have a slight left skew, where December is more symmetrical.    
 
 ![Pic 5](https://github.com/krmcclelland/surfs_up/blob/main/June_prcp.png)
 ![Pic 6](https://github.com/krmcclelland/surfs_up/blob/main/December_prcp.PNG)
 
-3. As an additional query, the June and December months were filtered from the date.  The temperature and precipitation data was then graphed as a scatterplot with a trendline.  Reading the slopes of the trendline equations, June (slope = -.037) has a slightly steeper slope than December (slope = -.019), which means as the temperature increases, the precipitation decreases slightly more in June than in December.  However, the difference is nominal.  Reviewing both scatterplots, the precipitation mostly stays under 3 inches with a few outliers over 3 inches of precipitation. 
-
 ## Summary:
-The investor's main concern was getting rained out too frequently.  Comparing the June and December weather patterns, the temperatures and precipitation means are reasonably close.  The temperature data is not strongly skewed for either month.  The ratio of the temperatures to the precipitation for the two months is also reasonably similar with few outliers over 3 inches of precipitation.  The data supports opening a Surf and Ice Cream shop year-round.
+The investor's main concern was being rained out, and revenue loss.  Comparing the June and December weather patterns, the temperatures and precipitation means are reasonably close.  The temperature data is not strongly skewed for either month.  The ratio of the temperatures to the precipitation for the two months is also reasonably similar with few outliers over 3 inches of precipitation.  The data supports opening a Surf and Ice Cream shop year-round.
