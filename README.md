@@ -17,7 +17,7 @@ A potential investor having a negative previous investment experience due to wea
       
 ### December Statistics for the Temperature and Precipitation
 
-![Pic_2]
+![Pic_2](https://github.com/krmcclelland/surfs_up/blob/main/December_Temp_Stats.png)
 
 1. The mean temperature of 75°F for June is higher than the mean temperature of 71°F for December.  However, the opposite is true for precipitation.  December had the higher precipitation of .22 inches while June had .14 inches. 
 
